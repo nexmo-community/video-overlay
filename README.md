@@ -1,8 +1,8 @@
 ![Vonage](.github/vonage.png)
 
-# Project Title
+# Add Overlay to Video with the Vonage Video API 
 
-Project Description
+Use the HTML5 Canvas API to add text or image overlays to your Vonage Video API (OpenTok) Publishers.
 
 ## Code of Conduct
 
