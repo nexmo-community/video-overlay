@@ -2,7 +2,9 @@
 
 # Add Overlay to Video with the Vonage Video API 
 
-Use the HTML5 Canvas API to add text or image overlays to your Vonage Video API (OpenTok) Publishers.
+Use the HTML5 Canvas API to add text or image overlays to your Vonage Video API (OpenTok) Publishers. 
+
+This is a sample codebase which accompany's [this blog post](https://www.nexmo.com/blog/2020/08/25/add-overlay-to-video-with-the-vonage-video-api).
 
 ## Code of Conduct
 
